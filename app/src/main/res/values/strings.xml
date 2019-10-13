@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhoneNumber</string>
+    <string name="display">Entered Phone Number</string>
+    <string name="enter_number">Enter Phone Number</string>
+    <string name="clear">Clear</string>
+    <string name="validate">Validate</string>
+    <string name="back">Return</string>
+    <string name="valid">Valid</string>
+    <string name="invalid">INVALID</string>
+</resources>
